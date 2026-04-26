@@ -1,0 +1,17 @@
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Majnuntol.Api.exe
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Majnuntol.Api.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.csproj.AssemblyReference.cache
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.AssemblyInfoInputs.cache
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.AssemblyInfo.cs
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.csproj.CoreCompileInputs.cache
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\FIle\ISH\Majnuntol\Majnuntol\src\Majnuntol\obj\Debug\net10.0\Majnuntol.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Majnuntol Agro Marketplace API",
+    "description": "Qishloq xo'jaligi mahsulotlari uchun marketplace API",
+    "contact": {
+      "name": "Majnuntol Team",
+      "email": "info@majnuntol.uz"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "Health"
+    }
+  ]
+}
