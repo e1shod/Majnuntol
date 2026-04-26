@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\src\\Majnuntol\\Majnuntol.Api.csproj": {}
+    "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\Majnuntol.Api\\Majnuntol.Api.csproj": {}
   },
   "projects": {
-    "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\src\\Majnuntol\\Majnuntol.Api.csproj": {
+    "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\Majnuntol.Api\\Majnuntol.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\src\\Majnuntol\\Majnuntol.Api.csproj",
+        "projectUniqueName": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\Majnuntol.Api\\Majnuntol.Api.csproj",
         "projectName": "Majnuntol.Api",
-        "projectPath": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\src\\Majnuntol\\Majnuntol.Api.csproj",
+        "projectPath": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\Majnuntol.Api\\Majnuntol.Api.csproj",
         "packagesPath": "C:\\Users\\hacke\\.nuget\\packages\\",
-        "outputPath": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\src\\Majnuntol\\obj\\",
+        "outputPath": "D:\\FIle\\ISH\\Majnuntol\\Majnuntol\\Majnuntol.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,9 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[10.0.7, )"
+              "version": "[10.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -73,14 +73,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.7, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[8.17.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[10.1.7, )"
             }
           },
           "imports": [
